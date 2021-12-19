@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BreakKeyword.cpp" />
     <ClCompile Include="ContinueStatement.cpp" />
     <ClCompile Include="Loops.cpp" />
   </ItemGroup>

@@ -1,7 +1,7 @@
 
 #include <iostream>
 
-int main()
+/*int main()
 {
 	// for continue statement
 
@@ -14,4 +14,4 @@ int main()
 		std::cout << iteration <<"\n";
 	}
 	
-}
+}*/
