@@ -16,5 +16,13 @@ int main()
 		std::cout << "Iteration # " << count << "\n";
 		count += 1;
 	}
+
+
+	// this is do while loop
+	int iteration = 0;
+	do{
+		std::cout << "This is do while Iteration # " << iteration << "\n";
+		iteration += 1;
+	} while (iteration < 5);
 }
 
