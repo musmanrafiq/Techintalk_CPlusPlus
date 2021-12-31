@@ -1,16 +1,31 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	// for continue statement
+	// local variables
+	string name, decision;
+	
+	cout << "This is start of the program, please follow the instructions" << endl << endl;
 
-	std::cout << "This is continue statement example" << "\n";
+	// continuous running loop
+	while (true) {
 
-	for (int iteration = 1; iteration < 6; iteration += 1) {
-		if (iteration % 3 == 0) {
+		cout << "Please enter your name" << endl;
+
+		cin >> name;
+
+		cout << "Your name is " << name << endl;
+
+		cout << "Do you want to enter another name, press 'n' for No" << endl;
+
+		cin >> decision;
+
+		if (decision == "n") {
 			break;
 		}
-		std::cout << iteration << "\n";
+
 	}
-	std::cout << "Program end" << "\n";
+
+	cout << "Program ended" << endl;
 }
