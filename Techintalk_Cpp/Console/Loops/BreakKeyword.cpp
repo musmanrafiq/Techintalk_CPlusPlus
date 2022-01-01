@@ -1,10 +1,10 @@
 #include <iostream>
-using namespace std;
+//using namespace std;
 
-int main()
-{
+//int main()
+//{
 	// local variables
-	string name, decision;
+	/*string name, decision;
 	
 	cout << "This is start of the program, please follow the instructions" << endl << endl;
 
@@ -28,4 +28,4 @@ int main()
 	}
 
 	cout << "Program ended" << endl;
-}
+}*/

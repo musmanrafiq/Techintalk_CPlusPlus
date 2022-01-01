@@ -24,5 +24,8 @@
     <ClCompile Include="BreakKeyword.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="NestedLoops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

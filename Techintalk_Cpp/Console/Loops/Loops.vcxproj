@@ -22,6 +22,7 @@
     <ClCompile Include="BreakKeyword.cpp" />
     <ClCompile Include="ContinueStatement.cpp" />
     <ClCompile Include="Loops.cpp" />
+    <ClCompile Include="NestedLoops.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
