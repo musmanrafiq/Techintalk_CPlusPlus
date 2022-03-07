@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="BreakKeyword.cpp" />
     <ClCompile Include="ContinueStatement.cpp" />
+    <ClCompile Include="file\file.cpp" />
     <ClCompile Include="Loops.cpp" />
     <ClCompile Include="NestedLoops.cpp" />
   </ItemGroup>
